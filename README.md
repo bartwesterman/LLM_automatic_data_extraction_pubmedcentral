@@ -29,15 +29,7 @@ This repository contains Python scripts to **automate the retrieval, cleaning, a
      - Cell line (e.g., HeLa, MCF-7)
    - Output structured JSON annotations.
 
-## Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/nlp-drug-efficacy-pipeline.git
-cd nlp-drug-efficacy-pipeline
-pip install -r requirements.txt
-```
+## Scripts to be used in Jupyter Notebook
 
 ```bash
 # Step 1 PMID_to_PMCID_mapping
